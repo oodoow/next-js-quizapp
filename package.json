@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "array-shuffle": "^3.0.0",
+    "idb": "^7.1.1",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
